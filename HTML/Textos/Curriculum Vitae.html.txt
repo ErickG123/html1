@@ -1,0 +1,87 @@
+<html>
+<html lang="pt-br">
+	<head>
+        <meta charset="utf-8">
+        <title>Curriculum Vitae</title>
+	</head>
+	<body>
+        <h1>CURRICULUM VITAE</h1>
+
+        <p>Eu já dei risada até a barriga doer,<br>
+        Já nadei até perder o fôlego,<br>
+        Já chorei até dormir<br>
+        E acordei com o rosto desfigurado.<br>
+        Já fiz cosquinha na minha irmã só pra ela parar de chorar,<br>
+        Já me queimei brincando com vela.<br>
+        Eu já fiz bola de chiclete e melequei todo o rosto.<br>
+        Já conversei com o espelho.<br>
+        E até já brinquei de ser bruxo.<br>
+        Já quis ser astronauta,<br>
+        Violonista, mágico, caçador e trapezista.<br>
+        Já me escondi atrás da cortina e esqueci os pés pra fora,<br>
+        Já passei trote por telefone,<br>
+        Já tomei banho de chuva,<br>
+        E acabei me viciando.<br>
+        Já roubei beijo,<br>
+        Já fiz confissões antes de dormir<br>
+        Num quarto escuro pro melhor amigo.<br>
+        Já confundi sentimentos,<br>
+        Peguei atalho errado<br>
+        E continuo andando pelo desconhecido.<br>
+        Já raspei o fundo da panela de arroz carreteiro,<br>
+        Já me cortei fazendo a barba apressado,<br>
+        Já chorei ouvindo música no ônibus.<br>
+        Já tentei esquecer algumas pessoas,<br>
+        Mas descobri que essas são as mais difíceis de se<br>
+        [esquecer.<br>
+        Já subi escondido no telhado pra tentar pegar estrelas,<br>
+        Já subi em árvore pra roubar fruta,<br>
+        Já caí da escada de bunda.<br>
+        Conheci a morte de perto,<br>
+        E agora anseio por viver cada dia.<br>
+        Já fiz juras eternas,<br>
+        Já escrevi no muro da escola,<br>
+        Já chorei sentado no chão do banheiro,<br>
+        Já fugi de casa pra sempre,<br>
+        E voltei no outro instante.<br>
+        Já saí pra caminhar sem rumo,<br>
+        Sem nada na cabeça, ouvindo estrelas.<br>
+        Já corri pra não deixar alguém chorando,<br>
+        Já fiquei sozinho no meio de mil pessoas<br>
+        Sentindo falta de uma só.<br>
+        Já vi pôr-do-sol cor-de-rosa e alaranjado,<br>
+        Já me joguei na piscina sem vontade de voltar,<br>
+        Já bebi uísque até sentir dormentes os meus lábios,<br>
+        Já olhei a cidade de cima<br>
+        E mesmo assim não encontrei meu lugar.<br>
+        Já senti medo do escuro,<br>
+        Já tremi de nervoso,<br>
+        Já quase morri de amor,<br>
+        Mas renasci novamente pro ver o sorriso de alguém<br>
+        [especial.<br>
+        Já acordei no meio da noite<br>
+        E fiquei com medo de levantar.<br>
+        Já apostei em correr descalço na rua,<br>
+        Já gritei de felicidade,<br>
+        Já roubei rosas num enorme jardim.<br>
+        Já me apaixonei e achei que era para sempre,<br>
+        Mas sempre era um "para sempre" pela metade.<br>
+        Já deitei na grama de madrugada<br>
+        E vi a Lua virar Sol,<br>
+        Já chorei por ver amigos partindo,<br>
+        Mas descobri que logo chegam novos,<br>
+        e a vida é mesmo um ir e vir sem razão.<br>
+        Foram tantas coisas feitas,<br>
+        Momentos fotografados pelas lentes da emoção.<br>
+        Guardados num baú, chamado coração.<br>
+        E agora um formulário me interroga,<br>
+        Encosta-me na parede e grita:<br>
+        "- Qual sua experiência?”.<br>
+        Essa pergunta ecoa no meu cérebro:<br>
+        "- experiência... experiência...”.<br>
+        Será que ser "plantador de sorrisos" é uma boa<br>
+        [experiência?<br>
+        Não!<br>
+        ”Talvez eles não saibam ainda colher sonhos!”.</p>
+	</body>
+</html>

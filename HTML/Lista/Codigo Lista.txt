@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta chaset="utf-8">
+        <title>Usando Listas</title>
+    </head>
+    <body>
+        <ol>
+            <li>Alita - Anjo de Combate</li>
+            <li>Green Book</li>
+            <li>Vingadores - End Game</li>
+            <li> Aquaman</li>
+            <li> Bird Box</li>
+        </ol>
+
+        </hr>
+
+        <ol>
+            <li>Barra Bonita</li>
+            <li>Jau</li>
+            <li>Bauru</li>
+            <li>São Paulo</li>
+            <li>Rio de Janeiro</li>
+            <li>Botucatu</li>
+            <li>Macatuba</li>
+        </ol>
+
+        </hr>
+
+        <ul>
+           <li>Sword Art Online</li>
+           <li>Naruto</li>
+           <li>Dragon Ball Super</li>
+           <li>Nanatsu No Taizai</li>
+           <li>Boku No Hero</li>
+        </ul>
+        
+        </hr>
+    
+        <dl>
+            <dt>Portuguesa</dt>
+            <dd>Extrato De Tomate, Ervilha, Ovo Cozido</dd>
+            <dt>Salame</dt>
+            <dd>Extrato De Tomate, Salame</dd>
+            <dt>Frango</dt>
+            <dd>Frango, Catupity</dd>
+            <dt>Salada</dt>
+            <dd>Alface, Tomate, Bacon, Requeijão</dd>
+        </dl>
+
+        </hr>
+
+        <ol><li>Ford</li>
+            <ul>
+                <li>Fiest</li>
+                <li>Ranger</li>
+                <li>Ka</li>
+            </ul>
+        </ol>
+        <ol><li>Hyundai</li>
+            <ul>
+                <li>HB20</li>
+                <li>I30</li>
+                <li>Creta Sport</li>
+            </ul>
+        </ol>
+        <ol><li>Citroen</li>
+            <ul>
+                <li>Citroen C3</li>
+                <li>Citroen C4</li>
+                <li>Citroen Aircross</li>
+            <ul>
+        </ol>
+        <ol><li>Peugeot</li>
+            <ul>
+                <li>Peugeot 308</li>
+                <li>Peugeot 3008</li>
+                <li>Peugeot 208</li>
+            </ul>
+        </ol>     
+    </body>
+</html>

@@ -1,0 +1,62 @@
+﻿.celular {
+    background:#fff;                   /*Cor de fundo*/
+    color:#777;                        /*Cor do texto*/
+    position:absolute;                 /*Posição - Começa do canto*/
+    width:65%;                         /*Posição - Largura*/
+    height:auto;                       /*Altura de acordo com o conteúdo*/
+    font-size:12pt;                    /*Tamanho da fonte*/
+    top:50%;                           /*Metade da altura*/
+    left:50%;                          /*Metade da largura*/
+    transform:translate(-50%,-50%);    /*Coloca no centro*/
+    text-align:center;                 /*Coloca o texto no centro*/
+    padding:40px;                      /*Aumenta o tamanho da caixa interna*/
+}
+
+.tablet {
+    background:#fff; 
+    color:#777; 
+    position:absolute; 
+    width:65%; 
+    height:auto; 
+    font-size:12pt; 
+    top:50%; 
+    left:50%; 
+    transform:translate(-50%,-50%); 
+    text-align:center;
+    padding:40px;
+}
+
+.desktop {
+    background:#fff;
+    color:#777;
+    position:absolute;
+    width:65%;
+    height:auto;
+    font-size:12pt;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    text-align:center;
+    padding:40px;
+}
+
+/*Celular*/
+@media only screen and (max-width:600px){
+    body{
+        background:#ffff66;
+    }
+}
+
+/*Tablet*/
+@media only screen and (min-width:601px) and (max-width:800px){
+    body{
+        background:#66ff99;
+    }
+}
+
+/*Computador*/
+@media only screen and (min-width:801px){
+    body{
+        background:#d580ff;
+    }
+}

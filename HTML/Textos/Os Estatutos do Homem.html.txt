@@ -1,0 +1,123 @@
+<html>
+<html lang="pt-br">
+	<head>
+        <meta charset="utf-8">
+        <title>A Lista</title>
+	</head>
+	<body>
+        <h1>Os Estatutos do Homem (Ato Institucional Permanente)<br>
+        A Carlos Heitor Cony</h1> 
+
+        <p>Artigo I <br>
+        Fica decretado que agora vale a verdade. <br>
+        agora vale a vida, <br>
+        e de mãos dadas, <br>
+        marcharemos todos pela vida verdadeira. </p>
+
+        <p>Artigo II <br>
+        Fica decretado que todos os dias da semana, <br>
+        inclusive as terças-feiras mais cinzentas, <br>
+        têm direito a converter-se em manhãs de domingo. </p>
+
+        <p>Artigo III <br>
+        Fica decretado que, a partir deste instante, <br>
+        haverá girassóis em todas as janelas, <br>
+        que os girassóis terão direito <br>
+        a abrir-se dentro da sombra; <br>
+        e que as janelas devem permanecer, o dia inteiro, <br>
+        abertas para o verde onde cresce a esperança.</p> 
+
+        <p>Artigo IV <br>
+        Fica decretado que o homem <br>
+        não precisará nunca mais <br>
+        duvidar do homem. <br>
+        Que o homem confiará no homem <br>
+        como a palmeira confia no vento<br>, 
+        como o vento confia no ar, <br>
+        como o ar confia no campo azul do céu. </p>
+
+        <p>Parágrafo único: <br>
+        O homem, confiará no homem <br>
+        como um menino confia em outro menino. </p>
+
+        <p>Artigo V <br>
+        Fica decretado que os homens <br>
+        estão livres do jugo da mentira. <br>
+        Nunca mais será preciso usar <br>
+        a couraça do silêncio <br>
+        nem a armadura de palavras. <br>
+        O homem se sentará à mesa <br>
+        com seu olhar limpo <br>
+        porque a verdade passará a ser servida <br>
+        antes da sobremesa. </p>
+
+        <p>Artigo VI <br>
+        Fica estabelecida, durante dez séculos, <br>
+        a prática sonhada pelo profeta Isaías, <br>
+        e o lobo e o cordeiro pastarão juntos <br>
+        e a comida de ambos terá o mesmo gosto de aurora. </p>
+
+       <p>Artigo VII <br>
+        Por decreto irrevogável fica estabelecido <br>
+        o reinado permanente da justiça e da claridade, <br>
+        e a alegria será uma bandeira generosa <br>
+        para sempre desfraldada na alma do povo. </p>
+
+        <p>Artigo VIII <br>
+        Fica decretado que a maior dor <br>
+        sempre foi e será sempre <br>
+        não poder dar-se amor a quem se ama <br>
+        e saber que é a água <br>
+        que dá à planta o milagre da flor. </p>
+
+        <p>Artigo IX <br>
+        Fica permitido que o pão de cada dia <br>
+        tenha no homem o sinal de seu suor. <br>
+        Mas que sobretudo tenha <br>
+        sempre o quente sabor da ternura. </p>
+
+        <p>Artigo X <br>
+        Fica permitido a qualquer pessoa, <br>
+        qualquer hora da vida, <br>
+        uso do traje branco. </p>
+
+        <p>Artigo XI <br>
+        Fica decretado, por definição, <br>
+        que o homem é um animal que ama <br>
+        e que por isso é belo, <br>
+        muito mais belo que a estrela da manhã. </p>
+
+        <p>Artigo XII <br>
+        Decreta-se que nada será obrigado <br>
+        nem proibido, <br>
+        tudo será permitido, <br>
+        inclusive brincar com os rinocerontes <br>
+        e caminhar pelas tardes <br>
+        com uma imensa begônia na lapela. </p>
+
+        <p>Parágrafo único: <br>
+        Só uma coisa fica proibida: <br>
+        amar sem amor. </p>
+
+        <p>Artigo XIII <br>
+        Fica decretado que o dinheiro <br>
+        não poderá nunca mais comprar <br>
+        o sol das manhãs vindouras. <br>
+        Expulso do grande baú do medo, <br>
+        o dinheiro se transformará em uma espada fraternal <br>
+        para defender o direito de cantar <br>
+        e a festa do dia que chegou. </p>
+
+        <p>Artigo Final. <br>
+        Fica proibido o uso da palavra liberdade, <br>
+        a qual será suprimida dos dicionários <br>
+        e do pântano enganoso das bocas. <br>
+        A partir deste instante <br>
+        a liberdade será algo vivo e transparente <br>
+        como um fogo ou um rio, <br>
+        e a sua morada será sempre <br>
+        o coração do homem.</p>
+
+        Thiago de Mello
+	</body>
+</html>

@@ -1,0 +1,31 @@
+@media only screen and (max-width:700px){
+	body{
+		background:#00cc99;
+	}
+	
+	.foto{
+		position:absolute;
+		width:540px;
+		height:960px;
+		background:url("img/vertical.jpg");
+		top:50%;
+		left:50%;
+		transform:translate(-50%,-50%);
+	}
+}
+
+@media only screen and (min-width:701px){
+	body{
+		background:#ffff66;
+	}
+	
+	.foto{
+		position:absolute;
+		width:960px;
+		height:540px;
+		background:url("img/horizontal.jpg");
+		top:50%;
+		left:50%;
+		transform:translate(-50%,-50%);
+	}
+}

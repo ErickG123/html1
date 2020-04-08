@@ -1,0 +1,154 @@
+<html>
+<html lang="pt-br">
+	<head>
+        <meta charset="utf-8">
+        <title>A Change Of Seasons</title>
+	</head>
+	<body>
+            <h1>Dream Theater<br>
+            A Change Of Seasons</h1>
+            
+            <p>I. The Crimson Sunrise<br>
+            
+            II. Innocence<br>
+            I remember a time<br>
+            My frail, virgin mind<br>
+            watched the crimson sunrise<br>
+            Imagined what it might find<br>
+            Life was filled with wonder<br>
+            I felt the warm wind blow<br>
+            I must explore the boundaries<br>
+            Transcend the depth of winter's snow<br>
+            Innocence caressing me<br>
+            I never felt so young before<br>
+            There was so much life in me<br>
+            Still I longed to search for more</p>
+            
+            <p>But those days are gone now<br>
+            Changed like a leaf on a tree<br>
+            Blown away forever<br>
+            Into the cool autumn breeze<br>
+            The snow has now fallen<br>
+            And my sun's not so bright<br>
+            I struggle to hold on<br>
+            With the last of my might</p>
+            
+            <p>In my den of inequity<br>
+            Viciousness and subtlety<br>
+            Struggle to ease the pain<br>
+            Struggle to find the sane<br>
+            Ignorance surrounding me<br>
+            I've never been so filled with fear<br>
+            All my life's been drained from me<br>
+            The end is drawing near...</p>
+            
+            <p>III. Carpe Diem<br>
+            "Carpe diem, seize the day"<br>
+            I'll always remember<br>
+            The chill of November<br>
+            The news of the fall<br>
+            The sounds in the hall<br>
+            The clock on the wall ticking away<br>
+            "Seize the Day"<br>
+            I heard him say<br>
+            Life will not always be this way<br>
+            Look around<br>
+            Hear the sounds<br>
+            Cherish your life while you're still around</p>
+            
+            <p>"Gather ye rosebuds while ye may<br>
+            Old Time is still a-flying<br>
+            And this same flower that smiles today<br>
+            Tomorrow will be dying"</p>
+            
+            <p>We can learn from the past<br>
+            But those days are gone<br>
+            We can hope for the future<br>
+            But there might not be one</p>
+            
+            <p>The words stuck in my mind<br>
+            Alive from what I've learned<br>
+            I have to seize the day<br>
+            To home I returned</p>
+            
+            <p>Preparing for her flight<br>
+            I held with all my might<br>
+            Fearing my deepest fright<br>
+            She walked into the night<br>
+            She turned for one last look<br>
+            She looked me in the eye<br>
+            I said, "I love you, goodbye"</p>
+            
+            <p>"It's the most awful thing you'll ever hear"<br>
+            "If you're lying to me"<br>
+            "Oh, you dearly love her"<br>
+            "Just have to leave all our lives"<br>
+            "Seize the day!"<br>
+            "Something happened"<br>
+            "Gather ye rosebuds while ye may"<br>
+            "She was killed"</p>
+            
+           <p>IV. The Darkest of Winters</p>
+            
+           <p>V. Another World<br>
+            So far or so it seems<br>
+            All is lost with nothing fulfilled<br>
+            Off the pages and the T.V. screen<br>
+            Another world where nothing's true<br>
+            Tripping through the life fantastic<br>
+            Lose a step and never get up<br>
+            Left alone with a cold blank stare<br>
+            I feel like giving up<br>
+            I was blinded by a paradise<br>
+            Utopia high in the sky<br>
+            A dream that only drowned me<br>
+            Deep in sorrow, wondering why</p>
+            
+            <p>Oh come let us adore him<br>
+            Abuse and then ignore him<br>
+            No matter what, don't let him be<br>
+            Let's feed upon his misery<br>
+            Then string him up for all the world to see</p>
+            
+            <p>I'm sick of all you hypocrites<br>
+            Holding me at bay<br>
+            And I don't need your sympathy<br>
+            To get me through the day<br>
+            Seasons change and so can I<br>
+            Hold on Boy, no time to cry<br>
+            Untie these strings, I'm climbing down<br>
+            I won't let them push me away!</p>
+            
+            <p>Oh come let us adore him<br>
+            Abuse and then ignore him<br>
+            No matter what, don't let him be<br>
+            Let's feed upon his misery<br>
+            Now it's time for them to deal with me</p>
+            
+            <p>VI. The Inevitable Summer<br>
+            
+            <p>VII. The Crimson Sunset<br>
+            I'm much wiser now<br>
+            A lifetime of memories<br>
+            run through my head<br>
+            They taught me how<br>
+            For better or worse, alive or dead<br>
+            I realize there's no turning back<br>
+            Life goes on the offbeaten track</p>
+            
+           <p> I sit down with my son<br>
+            Set to see the Crimson Sunset<br>
+            (Gather ye rosebuds while ye may)<br>
+            Many years have come and gone<br>
+            I've lived my life, but now must move on<br>
+            (Gather ye rosebuds while ye may)<br>
+            He's my only one<br>
+            Now that my time has come<br>
+            Now that my life is done<br>
+            We look into the sun<br>
+            "Seize the day and don't you cry<br>
+            Now it's time to say goodbye<br>
+            Even though I'll be gone<br>
+            I will live on, live on"</p>
+	</body>
+</html>
